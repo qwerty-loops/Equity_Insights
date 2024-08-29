@@ -1,6 +1,6 @@
 # Equity_Insights
 
-● Develop a prototype of a new data report/dashboard using Tableau, Power BI, or Figma.
+● Develop a prototype of a new data report/dashboard using Tableau.
 
 ● Improve the visualization of grade/pass rates and demographic trends.
 
@@ -13,3 +13,5 @@ learning environments for underserved and underrepresented students.
 
 MVP should be Dashboard ,implemented in Tableau,requested to be revamped from the current basic approach.
 Addtional functionalities to be Predictions made and Trends observed, which could aid in the betterment of the approach taken by Equity Schools.
+
+The Dashboard, final presentation and the Insights derived are attached for perusal.
